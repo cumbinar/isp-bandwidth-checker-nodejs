@@ -72,3 +72,6 @@ If you test it in a Windows environment, let me know your experience.
 
 This project was inspired by [@healycodes](https://github.com/healeycodes) and his recent work. It was recently published on [Dev.to](https://dev.to/healeycodes/i-built-a-bot-to-try-and-get-money-back-from-my-internet-provider-33ip).
 
+cd /mnt/d ir a la raiz D
+git clone url (clona un repositorio de git)
+~ Alias de home usuario
